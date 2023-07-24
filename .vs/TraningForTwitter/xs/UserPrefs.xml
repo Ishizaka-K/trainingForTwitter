@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{7265A401-CFB6-4EE9-906D-7E235AA3B9F1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TraningForTwitter PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E489F6EC-FBC1-4E26-8E36-6F8202E54E16" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E489F6EC-FBC1-4E26-8E36-6F8202E54E16" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Intrestpage.xaml">
+    <Files>
+      <File FileName="App.xaml" />
+      <File FileName="AppShell.xaml" />
+      <File FileName="MauiProgram.cs" />
+      <File FileName="AppShell.xaml.cs" />
+      <File FileName="App.xaml.cs" />
+      <File FileName="Platforms/iOS/Program.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Platforms/Tizen/Main.cs" />
+      <File FileName="Platforms/Tizen/tizen-manifest.xml" />
+      <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.Maui.Resizetizer.Sdk/7.0.86/targets/Microsoft.Maui.Resizetizer.targets" />
+      <File FileName="Views/Intrestpage.xaml" Line="6" Column="5" />
+      <File FileName="Views/Profilepage.xaml" />
+      <File FileName="Views/Searchpage.xaml" />
+      <File FileName="Views/Timelinepage.xaml" />
+      <File FileName="Views/Timelinepage.xaml.cs" />
+      <File FileName="Resources/Styles/Colors.xaml" />
+      <File FileName="Resources/Styles/Styles.xaml" />
+      <File FileName="Resources/Splash/splash.svg" />
+      <File FileName="Resources/AppIcon/appicon.svg" />
+      <File FileName="Resources/AppIcon/appiconfg.svg" />
+      <File FileName="Views/Intrestpage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TraningForTwitter" expanded="True">
+            <Node name="TraningForTwitter" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Platforms" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="AppIcon" expanded="True" />
+                <Node name="Fonts" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Raw" expanded="True" />
+                <Node name="Splash" expanded="True" />
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Intrestpage.xaml" expanded="True" selected="True" />
+                <Node name="Profilepage.xaml" expanded="True" />
+                <Node name="Searchpage.xaml" expanded="True" />
+                <Node name="Timelinepage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

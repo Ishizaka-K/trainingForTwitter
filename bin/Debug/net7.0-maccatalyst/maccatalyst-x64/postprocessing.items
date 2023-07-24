@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="TraningForTwitter.app/Contents/MacOS/TraningForTwitter">
+      <BCSymbolMapName>TraningForTwitter.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>TraningForTwitter.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/ishizaka/Projects/TraningForTwitter/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>TraningForTwitter.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/ishizaka/Projects/TraningForTwitter</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
